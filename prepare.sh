@@ -1,2 +1,2 @@
 cp ./DragGAN/arial.ttf ./
-cd ./DragGAN/ && bash script/download_model.sh
+cd ./DragGAN/ && bash scripts/download_model.sh
